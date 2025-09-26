@@ -1,4 +1,4 @@
-#Luxury Wellness. A NeoLife independed distributor
+# Luxury Wellness. A NeoLife independed distributor
 # Appointment Form
 
 A simple HTML/PHP appointment form allowing you select dates (Saturdays and Sundays) to schedule meeting with the NeoLife distributor and learn more about NeoLife or just purchase their products.
