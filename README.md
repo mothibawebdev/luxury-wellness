@@ -26,7 +26,7 @@ Purchases can be completed online by either making EFT payments or using the Pay
 
 ## Usage
 
-Clone or download this repository, then open the `index.html` file in your browser.
+Clone or download this repository, then open the `index.php` file in your browser.
 
 ```bash
 git clone https://github.com/your-username/appointment-form.git
