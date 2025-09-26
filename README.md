@@ -28,10 +28,11 @@ Purchases can be completed online by either making EFT payments or using the Pay
 
 Clone or download this repository, then open the `index.php` file in your browser.
 
-```bash
-git clone https://github.com/your-username/appointment-form.git
-cd appointment-form
 <img width="1920" height="2221" alt="1" src="https://github.com/user-attachments/assets/86920650-6d92-4d77-9731-ba625e0a850f" />
 <img width="1920" height="2407" alt="2" src="https://github.com/user-attachments/assets/f1d2c2d2-b7b4-4541-8d59-0b437d064ea7" />
 <img width="1920" height="1687" alt="3" src="https://github.com/user-attachments/assets/94081ba4-1d64-4e31-b628-c3644206519c" />
 <img width="1920" height="2278" alt="4" src="https://github.com/user-attachments/assets/71116877-0214-4097-95c9-b416a8e72511" />
+
+```bash
+git clone https://github.com/your-username/appointment-form.git
+cd appointment-form
